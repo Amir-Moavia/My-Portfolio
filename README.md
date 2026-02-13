@@ -2,7 +2,7 @@
 A modern, responsive, and animated personal portfolio website designed to showcase my journey as a Computer Science Undergraduate (AWKUM '29) specializing in C++ development and AI systems.
 
 🚀 Live Demo
-[Insert Your GitHub Pages Link Here]
+[ https://amir-moavia.github.io/My-Portfolio/]
 
 🛠️ Tech Stack
 Frontend: HTML5, CSS3 (Custom Variables, CSS Grid, Flexbox).
